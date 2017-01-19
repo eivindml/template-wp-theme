@@ -1,0 +1,15 @@
+/*
+Theme Name: Mastiff
+Theme URI: http://www.ways.as
+Description: Custom Theme for Mastiff AS.
+
+Author: Ways
+Author URI: http://www.ways.as
+Version: 1.0.0
+Tags: responsive
+
+License: GNU/GPL Version 2 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+*/
+
+@import 'build/css/main.css';
